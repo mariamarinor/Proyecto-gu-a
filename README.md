@@ -8,4 +8,8 @@ Luisa Casas- Programadora
 Laura Esperanza Garcia- Constructora
 Maria Alejandra Torres- Constructora
 ### Metología
-Este proyecto se enfocará en un diseño dirigido hacia la participación y cooperación activa de los integrantes anteriormente nombrados; ¿cuál es la importancia de este diseño?. Nos orientará a la creatividad colectiva para diseñar, generando intereses en los implicados en este proyecto para así garantizar que el resultado de este logre satisfacer las necesidades y los gustos de los mismos.
+#### ARDUINO MEGA
+Para comenzar hemos recibido una placa de ARDUINO MEGA de la cual podemos observar herramientas comO:
+-Puerto USB: el cual se encarga del "cross compilation" que de la manera como lo entendimos, se refiere a la realizacion del codigo en determinado dispositivo para posteriormente pasarlo al dispositivo que lo ejecutará. Además puede enrgizar la placa con un voldeje de 5v.
+-
+
