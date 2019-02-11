@@ -2,3 +2,4 @@ La placa suministra la energía, la cual llega a la resistencia que provoca una 
 Las imágenes que se van a incluir, son la representación gráfica de lo que se explicó anteriormente del funcionamiento de la placa. 
 Se realizaron en fritzing, programa que facilita y a la vez permite diseñar y represantar digitalmente el funcionamiento de cada circuito, para así no tener que sacar fotos de la placa como tal sino que por medio de este programa se represente la placa de una manera organizada y bien presentada para las personas que contribuyen ya sea de manera directa o indireta al proyecto.
 https://github.com/mariamarinor/Proyecto-gu-a/blob/master/images/Captura%20de%20pantalla%20de%202019-02-06%2015-48-59.png
+https://github.com/mariamarinor/Proyecto-gu-a/blob/master/images/Captura%20de%20pantalla%20de%202019-02-06%2015-44-33.png
