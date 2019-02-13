@@ -5,4 +5,4 @@ La placa suministra la energía, la cual llega a la resistencia que provoca una 
 ![captura de pantalla de 2019-02-06 15-44-33](https://user-images.githubusercontent.com/47117506/52674438-90a15900-2ef1-11e9-9faf-0a68fa3c2bc5.png)
 
 #### Diagrama esquemático
-![untitled sketch_esquematico 2](https://user-images.githubusercontent.com/47117506/52675527-225e9580-2ef5-11e9-8e3f-e2e121b4d005.png)
+
