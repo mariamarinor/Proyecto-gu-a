@@ -7,6 +7,7 @@ La placa  Arduino se conecta de uno de los pin de 5v a uno de los buses del prot
 ![captura de pantalla de 2019-02-06 15-44-33](https://user-images.githubusercontent.com/47117506/52674438-90a15900-2ef1-11e9-9faf-0a68fa3c2bc5.png)
 
 #### Diagrama esquemático
+![esquemaled](https://user-images.githubusercontent.com/47117506/52917608-839eb400-32bb-11e9-9c63-af6d6fc7a3e2.png)
 
-
-#### Evidencias reales
+#### Evidencia
+![evidencialed](https://user-images.githubusercontent.com/47117506/52917611-87323b00-32bb-11e9-9c97-0e790448e968.jpg)
