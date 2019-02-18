@@ -10,6 +10,28 @@ Placa ARDUINO, protoboard, diodos led, resistencias 200ohm, cables para timbre, 
 #### Montaje
 ![img_20190213_161644431](https://user-images.githubusercontent.com/47117506/52918033-66201900-32c0-11e9-84c3-e07694c75896.jpg)
 
+#### Código
+
+int sensorPIn =2;
+int ledPin =3;
+
+void setup() {
+  pinMode(sensorPin, INPUT);
+ pinMode(ledPin, OUTPÚT);
+
+  
+
+}
+
+void loop() {
+ if (digitalRead(sensorPin) ==HIGH){
+  digitalwrite(ledPin, HIGH);
+  
+ }else{}
+ digitalwrite(ledPIn, LOW);
+  
+
+}
 
 
 
