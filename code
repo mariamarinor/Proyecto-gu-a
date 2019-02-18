@@ -1,4 +1,4 @@
-nt sensorPIn =2;
+int sensorPIn =2;
 int ledPin =3;
 
 void setup() {
