@@ -10,4 +10,4 @@ La placa  Arduino se conecta de uno de los pin de 5v a uno de los buses del prot
 ![esquemaled](https://github.com/mariamarinor/Proyecto-gu-a/blob/master/images/PROVADOR%20DE%20LED.png)
 
 #### Evidencia
-![evidencialed](https://user-images.githubusercontent.com/47117506/52917611-87323b00-32bb-11e9-9c97-0e790448e968.jpg)
+![evidencialed](file:///home/estudiante2019/Descargas/IMG_20190206_160809.jpg)
